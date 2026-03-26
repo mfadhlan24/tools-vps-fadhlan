@@ -15,4 +15,4 @@ Script auto install:
 ## ⚡ Quick Install (wget)
 
 ```bash
-wget https://raw.githubusercontent.com/USERNAME/REPO/main/install.sh && chmod +x install.sh && sudo bash install.sh
+wget https://raw.githubusercontent.com/mfadhlan24/tools-vps-fadhlan/refs/heads/main/install.sh && chmod +x install.sh && sudo bash install.sh
